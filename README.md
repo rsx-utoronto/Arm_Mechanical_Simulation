@@ -13,7 +13,8 @@ Steps;
 <img width="2558" height="580" alt="image" src="https://github.com/user-attachments/assets/ee3fc527-6024-4e03-b54c-9c4248f76183" />
 
 7) To change scenario, double click the signal block corresponding to each joint
-<img width="764" height="528" alt="image" src="https://github.com/user-attachments/assets/69ccb46c-60e5-42d0-b3b7-116b841523a3" />
+<img width="1762" height="898" alt="image" src="https://github.com/user-attachments/assets/45e10825-ef5f-411a-ae21-413f7f57f778" />
+
 
 8) Open the Signal Editor
    
@@ -26,7 +27,7 @@ Steps;
 
 13) Double-click on the Scope to open the Joint Torque graphers.
 
-<img width="514" height="633" alt="image" src="https://github.com/user-attachments/assets/2b4402b8-57b1-4b33-bae0-9d205387885b" />
+<img width="1762" height="898" alt="image" src="https://github.com/user-attachments/assets/49c7279a-1bdc-4d5c-9545-c4e291ac669e" />
 
 <img width="2559" height="1479" alt="image" src="https://github.com/user-attachments/assets/0eec42e9-9117-45f6-8f70-82a6dda79131" />
 
