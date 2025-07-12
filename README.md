@@ -7,7 +7,7 @@ Steps;
 
 <img width="2376" height="1510" alt="image" src="https://github.com/user-attachments/assets/613fc6c3-9e93-46b8-871b-b0ed06115979" />
 
-5) The MATLAB model window will open automatically
+5) Double click Arm_URDF_2025.slx and the MATLAB model window will open 
 6) Set the length of the Simulation under: Simulation -> Stop time
    
 <img width="2558" height="580" alt="image" src="https://github.com/user-attachments/assets/ee3fc527-6024-4e03-b54c-9c4248f76183" />
