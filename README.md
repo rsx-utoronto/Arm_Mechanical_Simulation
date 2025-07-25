@@ -12,9 +12,20 @@ Steps;
    
 <img width="2558" height="580" alt="image" src="https://github.com/user-attachments/assets/ee3fc527-6024-4e03-b54c-9c4248f76183" />
 
-Note: You will have to change the directory file path of each joint to the exact one you saved the downloaded Arm Sim package to the displacement graphs folder:
+
+
+
+
+
+
+IMPORTANT NOTE: 
+You will have to change the directory file path of each joint to the exact one you saved the downloaded Arm Sim package to the displacement graphs folder:
+
 <img width="1606" height="449" alt="image" src="https://github.com/user-attachments/assets/3c62da56-c101-43b5-a1f6-e00e47b1f9fa" />
+
 You will have to delete each signal block, double click an empty part of your screen, place and connect a new signal editor block for each joint (and the null joint within the arm sub-block) and map them to their displacment graph file in the folder above on your PC directory.
+
+
 
 7) To change scenario, double click the signal block corresponding to each joint
 <img width="1762" height="898" alt="image" src="https://github.com/user-attachments/assets/45e10825-ef5f-411a-ae21-413f7f57f778" />
