@@ -20,6 +20,10 @@ Steps;
    
 <img width="1928" height="1257" alt="image" src="https://github.com/user-attachments/assets/c9d789d3-77af-4b3f-9605-7066eb6f7d5f" />
 
+Note: You will have to change the directory file path of each joint to the exact one you saved the downloaded Arm Sim package to the displacement graphs folder:
+<img width="1606" height="449" alt="image" src="https://github.com/user-attachments/assets/3c62da56-c101-43b5-a1f6-e00e47b1f9fa" />
+
+
 9) Enter the data points to create the displacement graph that the joint will follow. Values entered at each time will correspond to the angular displacement in radians that the joint will follow at each point in time. (Note: The 1st and 2nd derivatives of such a graph are angular velocity and angular acceleration, so the steeper the graph, the faster the motion)
 10) Ensure the plot covers a time range that is at least as long as the simulation Stop time
 11) Save the plot and exit Signal Plotter
